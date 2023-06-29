@@ -4,20 +4,21 @@ format: html
 editor: visual
 Subtitle: R4CR Quarto 실습
 Author: 영욱/ys
-Categories: [QUarto, palmerpenguins,R]
+Categories: [Quarto, palmerpenguins,R]
 ---
-  
+
 ```{r}
 #| label: load-packages
 #| include: false
 
-library(tidyverse)
+library(ggplot2)
 library(palmerpenguins)
 ```
 
 ```{r}
-patient<-233
+patient<-235
 ```
+
 ## Meet Quarto
 
 이번 주 고객은 `r patient`명이다.
