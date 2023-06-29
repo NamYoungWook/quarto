@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hello, Quarto",
     "section": "",
-    "text": "patient<-235"
+    "text": "patient<-500\ndata<-200"
   },
   {
     "objectID": "index.html#meet-quarto",
     "href": "index.html#meet-quarto",
     "title": "Hello, Quarto",
     "section": "Meet Quarto",
-    "text": "Meet Quarto\n이번 주 고객은 235명이다.\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Meet Quarto\n이번 주 고객은 700명이다.\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
     "objectID": "index.html#meet-the-penguins",

@@ -17,11 +17,12 @@ library(palmerpenguins)
 
 ```{r}
 patient<-500
+data<-200
 ```
 
 ## Meet Quarto
 
-이번 주 고객은 `r patient`명이다.
+이번 주 고객은 `r patient+data`명이다.
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
