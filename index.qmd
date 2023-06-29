@@ -16,7 +16,7 @@ library(palmerpenguins)
 ```
 
 ```{r}
-patient<-235
+patient<-500
 ```
 
 ## Meet Quarto
